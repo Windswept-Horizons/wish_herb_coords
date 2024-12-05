@@ -1,0 +1,21 @@
+# HERBS: vector3 locations
+# TOTAL = 7,924 
+------------------------------------------
+- BAYOU = 417 locations
+- BIG VALLEY = 792 locations
+- BIG VALLEY = 796 locations
+- CHOLLA SPRINGS = 381 locations
+- CUMBERLAND FOREST = 228 locations
+- DAKOTA RIVER VALLEY = 27 locations
+- GAPTOOTH RIDGE = 438 locations
+- GREAT PLAINS = 274 locations
+- GRIZZLIES EAST = 239 locations
+- GRIZZLIES WEST = 172 locations
+- HENNIGANS STEAD = 253 locations
+- NEW HANOVER = 985 locations
+- RIO BRAVO = 248 locations
+- ROANOKE RIDGE = 767 locations
+- SCARLETT MEADOWS = 737 locations
+- TALL TREES = 320 locations
+- BULRUSH = 336 locations
+- BURDOCK_ROOT = 514 locations 
